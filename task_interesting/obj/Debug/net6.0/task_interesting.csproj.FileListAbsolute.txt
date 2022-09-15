@@ -1,0 +1,15 @@
+C:\Users\inadv\Desktop\AI\Знакомство с сишарп\Programming\Seminar9\task_interesting\obj\Debug\net6.0\task_interesting.csproj.AssemblyReference.cache
+C:\Users\inadv\Desktop\AI\Знакомство с сишарп\Programming\Seminar9\task_interesting\obj\Debug\net6.0\task_interesting.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\inadv\Desktop\AI\Знакомство с сишарп\Programming\Seminar9\task_interesting\obj\Debug\net6.0\task_interesting.AssemblyInfoInputs.cache
+C:\Users\inadv\Desktop\AI\Знакомство с сишарп\Programming\Seminar9\task_interesting\obj\Debug\net6.0\task_interesting.AssemblyInfo.cs
+C:\Users\inadv\Desktop\AI\Знакомство с сишарп\Programming\Seminar9\task_interesting\obj\Debug\net6.0\task_interesting.csproj.CoreCompileInputs.cache
+C:\Users\inadv\Desktop\AI\Знакомство с сишарп\Programming\Seminar9\task_interesting\bin\Debug\net6.0\task_interesting.exe
+C:\Users\inadv\Desktop\AI\Знакомство с сишарп\Programming\Seminar9\task_interesting\bin\Debug\net6.0\task_interesting.deps.json
+C:\Users\inadv\Desktop\AI\Знакомство с сишарп\Programming\Seminar9\task_interesting\bin\Debug\net6.0\task_interesting.runtimeconfig.json
+C:\Users\inadv\Desktop\AI\Знакомство с сишарп\Programming\Seminar9\task_interesting\bin\Debug\net6.0\task_interesting.dll
+C:\Users\inadv\Desktop\AI\Знакомство с сишарп\Programming\Seminar9\task_interesting\bin\Debug\net6.0\task_interesting.pdb
+C:\Users\inadv\Desktop\AI\Знакомство с сишарп\Programming\Seminar9\task_interesting\obj\Debug\net6.0\task_interesting.dll
+C:\Users\inadv\Desktop\AI\Знакомство с сишарп\Programming\Seminar9\task_interesting\obj\Debug\net6.0\refint\task_interesting.dll
+C:\Users\inadv\Desktop\AI\Знакомство с сишарп\Programming\Seminar9\task_interesting\obj\Debug\net6.0\task_interesting.pdb
+C:\Users\inadv\Desktop\AI\Знакомство с сишарп\Programming\Seminar9\task_interesting\obj\Debug\net6.0\task_interesting.genruntimeconfig.cache
+C:\Users\inadv\Desktop\AI\Знакомство с сишарп\Programming\Seminar9\task_interesting\obj\Debug\net6.0\ref\task_interesting.dll
